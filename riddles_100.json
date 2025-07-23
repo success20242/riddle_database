@@ -1,0 +1,402 @@
+[
+  {
+    "question": "What has to be broken before you can use it?",
+    "answer": "An egg."
+  },
+  {
+    "question": "I speak without a mouth and hear without ears. I have nobody, but I come alive with wind. What am I?",
+    "answer": "An echo."
+  },
+  {
+    "question": "You see me once in June, twice in November, but not at all in May. What am I?",
+    "answer": "The letter 'e'."
+  },
+  {
+    "question": "The more of me you take, the more you leave behind. What am I?",
+    "answer": "Footsteps."
+  },
+  {
+    "question": "What can fill a room but takes up no space?",
+    "answer": "Light."
+  },
+  {
+    "question": "What goes up but never comes down?",
+    "answer": "Your age."
+  },
+  {
+    "question": "What has many teeth but can\u2019t bite?",
+    "answer": "A comb."
+  },
+  {
+    "question": "I\u2019m tall when I\u2019m young, and I\u2019m short when I\u2019m old. What am I?",
+    "answer": "A candle."
+  },
+  {
+    "question": "What gets wetter the more it dries?",
+    "answer": "A towel."
+  },
+  {
+    "question": "I have branches, but no fruit, trunk or leaves. What am I?",
+    "answer": "A bank."
+  },
+  {
+    "question": "I\u2019m tall when I\u2019m young, and I\u2019m short when I\u2019m old. What am I? (variant 11)",
+    "answer": "A candle."
+  },
+  {
+    "question": "What has many teeth but can\u2019t bite? (variant 12)",
+    "answer": "A comb."
+  },
+  {
+    "question": "What can fill a room but takes up no space? (variant 13)",
+    "answer": "Light."
+  },
+  {
+    "question": "What gets wetter the more it dries? (variant 14)",
+    "answer": "A towel."
+  },
+  {
+    "question": "What has many teeth but can\u2019t bite? (variant 15)",
+    "answer": "A comb."
+  },
+  {
+    "question": "I have branches, but no fruit, trunk or leaves. What am I? (variant 16)",
+    "answer": "A bank."
+  },
+  {
+    "question": "The more of me you take, the more you leave behind. What am I? (variant 17)",
+    "answer": "Footsteps."
+  },
+  {
+    "question": "What can fill a room but takes up no space? (variant 18)",
+    "answer": "Light."
+  },
+  {
+    "question": "I speak without a mouth and hear without ears. I have nobody, but I come alive with wind. What am I? (variant 19)",
+    "answer": "An echo."
+  },
+  {
+    "question": "The more of me you take, the more you leave behind. What am I? (variant 20)",
+    "answer": "Footsteps."
+  },
+  {
+    "question": "What can fill a room but takes up no space? (variant 21)",
+    "answer": "Light."
+  },
+  {
+    "question": "The more of me you take, the more you leave behind. What am I? (variant 22)",
+    "answer": "Footsteps."
+  },
+  {
+    "question": "What has many teeth but can\u2019t bite? (variant 23)",
+    "answer": "A comb."
+  },
+  {
+    "question": "What has to be broken before you can use it? (variant 24)",
+    "answer": "An egg."
+  },
+  {
+    "question": "The more of me you take, the more you leave behind. What am I? (variant 25)",
+    "answer": "Footsteps."
+  },
+  {
+    "question": "You see me once in June, twice in November, but not at all in May. What am I? (variant 26)",
+    "answer": "The letter 'e'."
+  },
+  {
+    "question": "What can fill a room but takes up no space? (variant 27)",
+    "answer": "Light."
+  },
+  {
+    "question": "I have branches, but no fruit, trunk or leaves. What am I? (variant 28)",
+    "answer": "A bank."
+  },
+  {
+    "question": "What can fill a room but takes up no space? (variant 29)",
+    "answer": "Light."
+  },
+  {
+    "question": "I speak without a mouth and hear without ears. I have nobody, but I come alive with wind. What am I? (variant 30)",
+    "answer": "An echo."
+  },
+  {
+    "question": "What has many teeth but can\u2019t bite? (variant 31)",
+    "answer": "A comb."
+  },
+  {
+    "question": "What can fill a room but takes up no space? (variant 32)",
+    "answer": "Light."
+  },
+  {
+    "question": "The more of me you take, the more you leave behind. What am I? (variant 33)",
+    "answer": "Footsteps."
+  },
+  {
+    "question": "The more of me you take, the more you leave behind. What am I? (variant 34)",
+    "answer": "Footsteps."
+  },
+  {
+    "question": "I\u2019m tall when I\u2019m young, and I\u2019m short when I\u2019m old. What am I? (variant 35)",
+    "answer": "A candle."
+  },
+  {
+    "question": "I\u2019m tall when I\u2019m young, and I\u2019m short when I\u2019m old. What am I? (variant 36)",
+    "answer": "A candle."
+  },
+  {
+    "question": "What goes up but never comes down? (variant 37)",
+    "answer": "Your age."
+  },
+  {
+    "question": "I have branches, but no fruit, trunk or leaves. What am I? (variant 38)",
+    "answer": "A bank."
+  },
+  {
+    "question": "What has many teeth but can\u2019t bite? (variant 39)",
+    "answer": "A comb."
+  },
+  {
+    "question": "What can fill a room but takes up no space? (variant 40)",
+    "answer": "Light."
+  },
+  {
+    "question": "What goes up but never comes down? (variant 41)",
+    "answer": "Your age."
+  },
+  {
+    "question": "I\u2019m tall when I\u2019m young, and I\u2019m short when I\u2019m old. What am I? (variant 42)",
+    "answer": "A candle."
+  },
+  {
+    "question": "I speak without a mouth and hear without ears. I have nobody, but I come alive with wind. What am I? (variant 43)",
+    "answer": "An echo."
+  },
+  {
+    "question": "What can fill a room but takes up no space? (variant 44)",
+    "answer": "Light."
+  },
+  {
+    "question": "What has many teeth but can\u2019t bite? (variant 45)",
+    "answer": "A comb."
+  },
+  {
+    "question": "The more of me you take, the more you leave behind. What am I? (variant 46)",
+    "answer": "Footsteps."
+  },
+  {
+    "question": "What can fill a room but takes up no space? (variant 47)",
+    "answer": "Light."
+  },
+  {
+    "question": "What has to be broken before you can use it? (variant 48)",
+    "answer": "An egg."
+  },
+  {
+    "question": "What can fill a room but takes up no space? (variant 49)",
+    "answer": "Light."
+  },
+  {
+    "question": "What has many teeth but can\u2019t bite? (variant 50)",
+    "answer": "A comb."
+  },
+  {
+    "question": "The more of me you take, the more you leave behind. What am I? (variant 51)",
+    "answer": "Footsteps."
+  },
+  {
+    "question": "I have branches, but no fruit, trunk or leaves. What am I? (variant 52)",
+    "answer": "A bank."
+  },
+  {
+    "question": "What gets wetter the more it dries? (variant 53)",
+    "answer": "A towel."
+  },
+  {
+    "question": "I\u2019m tall when I\u2019m young, and I\u2019m short when I\u2019m old. What am I? (variant 54)",
+    "answer": "A candle."
+  },
+  {
+    "question": "You see me once in June, twice in November, but not at all in May. What am I? (variant 55)",
+    "answer": "The letter 'e'."
+  },
+  {
+    "question": "I speak without a mouth and hear without ears. I have nobody, but I come alive with wind. What am I? (variant 56)",
+    "answer": "An echo."
+  },
+  {
+    "question": "I speak without a mouth and hear without ears. I have nobody, but I come alive with wind. What am I? (variant 57)",
+    "answer": "An echo."
+  },
+  {
+    "question": "You see me once in June, twice in November, but not at all in May. What am I? (variant 58)",
+    "answer": "The letter 'e'."
+  },
+  {
+    "question": "What has to be broken before you can use it? (variant 59)",
+    "answer": "An egg."
+  },
+  {
+    "question": "What goes up but never comes down? (variant 60)",
+    "answer": "Your age."
+  },
+  {
+    "question": "What goes up but never comes down? (variant 61)",
+    "answer": "Your age."
+  },
+  {
+    "question": "The more of me you take, the more you leave behind. What am I? (variant 62)",
+    "answer": "Footsteps."
+  },
+  {
+    "question": "I\u2019m tall when I\u2019m young, and I\u2019m short when I\u2019m old. What am I? (variant 63)",
+    "answer": "A candle."
+  },
+  {
+    "question": "What gets wetter the more it dries? (variant 64)",
+    "answer": "A towel."
+  },
+  {
+    "question": "What has to be broken before you can use it? (variant 65)",
+    "answer": "An egg."
+  },
+  {
+    "question": "I speak without a mouth and hear without ears. I have nobody, but I come alive with wind. What am I? (variant 66)",
+    "answer": "An echo."
+  },
+  {
+    "question": "What has to be broken before you can use it? (variant 67)",
+    "answer": "An egg."
+  },
+  {
+    "question": "What can fill a room but takes up no space? (variant 68)",
+    "answer": "Light."
+  },
+  {
+    "question": "I have branches, but no fruit, trunk or leaves. What am I? (variant 69)",
+    "answer": "A bank."
+  },
+  {
+    "question": "I speak without a mouth and hear without ears. I have nobody, but I come alive with wind. What am I? (variant 70)",
+    "answer": "An echo."
+  },
+  {
+    "question": "What has to be broken before you can use it? (variant 71)",
+    "answer": "An egg."
+  },
+  {
+    "question": "What has to be broken before you can use it? (variant 72)",
+    "answer": "An egg."
+  },
+  {
+    "question": "What gets wetter the more it dries? (variant 73)",
+    "answer": "A towel."
+  },
+  {
+    "question": "You see me once in June, twice in November, but not at all in May. What am I? (variant 74)",
+    "answer": "The letter 'e'."
+  },
+  {
+    "question": "You see me once in June, twice in November, but not at all in May. What am I? (variant 75)",
+    "answer": "The letter 'e'."
+  },
+  {
+    "question": "What gets wetter the more it dries? (variant 76)",
+    "answer": "A towel."
+  },
+  {
+    "question": "The more of me you take, the more you leave behind. What am I? (variant 77)",
+    "answer": "Footsteps."
+  },
+  {
+    "question": "What gets wetter the more it dries? (variant 78)",
+    "answer": "A towel."
+  },
+  {
+    "question": "You see me once in June, twice in November, but not at all in May. What am I? (variant 79)",
+    "answer": "The letter 'e'."
+  },
+  {
+    "question": "What can fill a room but takes up no space? (variant 80)",
+    "answer": "Light."
+  },
+  {
+    "question": "I\u2019m tall when I\u2019m young, and I\u2019m short when I\u2019m old. What am I? (variant 81)",
+    "answer": "A candle."
+  },
+  {
+    "question": "You see me once in June, twice in November, but not at all in May. What am I? (variant 82)",
+    "answer": "The letter 'e'."
+  },
+  {
+    "question": "What gets wetter the more it dries? (variant 83)",
+    "answer": "A towel."
+  },
+  {
+    "question": "I have branches, but no fruit, trunk or leaves. What am I? (variant 84)",
+    "answer": "A bank."
+  },
+  {
+    "question": "What goes up but never comes down? (variant 85)",
+    "answer": "Your age."
+  },
+  {
+    "question": "You see me once in June, twice in November, but not at all in May. What am I? (variant 86)",
+    "answer": "The letter 'e'."
+  },
+  {
+    "question": "I\u2019m tall when I\u2019m young, and I\u2019m short when I\u2019m old. What am I? (variant 87)",
+    "answer": "A candle."
+  },
+  {
+    "question": "What has many teeth but can\u2019t bite? (variant 88)",
+    "answer": "A comb."
+  },
+  {
+    "question": "What goes up but never comes down? (variant 89)",
+    "answer": "Your age."
+  },
+  {
+    "question": "I have branches, but no fruit, trunk or leaves. What am I? (variant 90)",
+    "answer": "A bank."
+  },
+  {
+    "question": "You see me once in June, twice in November, but not at all in May. What am I? (variant 91)",
+    "answer": "The letter 'e'."
+  },
+  {
+    "question": "What goes up but never comes down? (variant 92)",
+    "answer": "Your age."
+  },
+  {
+    "question": "I speak without a mouth and hear without ears. I have nobody, but I come alive with wind. What am I? (variant 93)",
+    "answer": "An echo."
+  },
+  {
+    "question": "I speak without a mouth and hear without ears. I have nobody, but I come alive with wind. What am I? (variant 94)",
+    "answer": "An echo."
+  },
+  {
+    "question": "I\u2019m tall when I\u2019m young, and I\u2019m short when I\u2019m old. What am I? (variant 95)",
+    "answer": "A candle."
+  },
+  {
+    "question": "I\u2019m tall when I\u2019m young, and I\u2019m short when I\u2019m old. What am I? (variant 96)",
+    "answer": "A candle."
+  },
+  {
+    "question": "What gets wetter the more it dries? (variant 97)",
+    "answer": "A towel."
+  },
+  {
+    "question": "What gets wetter the more it dries? (variant 98)",
+    "answer": "A towel."
+  },
+  {
+    "question": "You see me once in June, twice in November, but not at all in May. What am I? (variant 99)",
+    "answer": "The letter 'e'."
+  },
+  {
+    "question": "You see me once in June, twice in November, but not at all in May. What am I? (variant 100)",
+    "answer": "The letter 'e'."
+  }
+]
